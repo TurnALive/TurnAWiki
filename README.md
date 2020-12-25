@@ -3,7 +3,8 @@
 
 
 
-## ∀Live_Minecraft-原版生存&创造群组
+## ∀Live-Minecraft
+## 原版生存&创造群组
 
 ### 世界详情
 服务器核心：
