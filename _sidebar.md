@@ -2,4 +2,4 @@
 ** [使用HMCL外置登录](/Con/HMCL)
 ** [使用PCL2外置登录](/Con/PCL2)
 ** [使用基岩版登录](/Con/BE)
-* [玩法介绍](/Play)
+* [玩法介绍](/Play/README)
