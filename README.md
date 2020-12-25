@@ -3,14 +3,12 @@
 
 
 
-## ∀Live-Minecraft
-## 原版生存&创造群组
-
+# ∀Live-Minecraft
+![index](./images/index.webp)
 ### 世界详情
 服务器核心：
 
-创造服：`Paper-1.16.4-345`
-
+创造服：`Paper-1.16.4-345`</br>
 生存服：`Spigot-1.16.4-122`
 
 
@@ -18,11 +16,9 @@
 
 ### 与服务器取得连接
 
-华西：`se.turna.live`
-
-华北：`ab.turna.live`
-
-香港：`th.turna.live`
+华西：`se.turna.live`</br>
+华北：`ab.turna.live`</br>
+香港：`th.turna.live`</br>
 
 请自行选择较优节点连接。
 
