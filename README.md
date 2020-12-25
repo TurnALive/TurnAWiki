@@ -1,20 +1,46 @@
-### 在启动器账户页面点击加号新建账户，登录方式选择外置登录：
-
-![02-20-47.jpg](https://i.loli.net/2020/06/07/7vuDNXrG3UqQF86.jpg)
-### 认证服务器一栏点击加号:
-填写认证服务器地址:`https://user.turna.live/api/yggdrasil`
-
-![02-23-39.jpg](https://i.loli.net/2020/06/07/6qfj2B8R3HIUNTY.jpg)
-### 当出现此界面时即添加成功，点击注册跳转到∀Live注册页面:
-
-![02-24-45.jpg](https://i.loli.net/2020/06/07/bRvqdtP91ZBFgiz.jpg)
-### 填写相关信息完成注册:
+**欢迎来到∀Live！[Wiki绝赞建设中](https://git.turna.live/xsling/turnawiki)~**
 
 
-![02-27-50.jpg](https://i.loli.net/2020/06/07/YQ1atwVfB5celI9.jpg)
-### 注册完成后回到HMCL填写账号密码完成登录:
 
-![02-28-58.jpg](https://i.loli.net/2020/06/07/xaDscvg6hyRFCYX.jpg)
-### 开始玩耍吧!
 
-![02-32-12.jpg](https://i.loli.net/2020/06/07/Xj6kuZlcqfMEd1G.jpg)
+## ∀Live_Minecraft-原版生存&创造群组
+
+### 世界详情
+服务器核心：
+
+创造服：`Paper-1.16.4-345`
+
+生存服：`Spigot-1.16.4-122`
+
+
+服务器验证方式为正版兼容外置登录，即正版和[非正版玩家](https://wiki.turna.live/#/Con/)皆可登录。
+
+### 与服务器取得连接
+
+华西：`se.turna.live`
+
+华北：`ab.turna.live`
+
+香港：`th.turna.live`
+
+请自行选择较优节点连接。
+
+### 相关链接：
+
+#### [主页](https://mc.turna.live)|[论坛](https://forum.turna.live)|[地图](https://mcmap.turna.live)
+
+### 常见问题
+- Q:提示“认证服务器停机维护”怎么办？
+
+	 A:请退出重试几次，如果实在不行可能是由于你所在的地区无法连接到认证服务器。(可以尝试科学上网
+- Q:提示“无效会话”怎么办？
+  
+  A:如果是正版玩家，请重启游戏以刷新登录令牌；如果是非正版玩家，请确保你已经注册并登录，如果多次尝试仍不行，请联系OP。
+
+### 联络
+[QQ](https://jq.qq.com/?_wv=1027&k=G0qBG63H) 群里都是JK，确定不来看看嘛？(逃
+
+[Telegram](https://t.me/joinchat/Kd53dFPoRcoqBKpBnvnnbA)
+
+[Discord](https://discord.gg/vKrN3zn)
+
