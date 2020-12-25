@@ -1,10 +1,12 @@
-**欢迎来到∀Live！[Wiki绝赞建设中](https://git.turna.live/xsling/turnawiki)~**
+#### 欢迎来到∀Live！[Wiki绝赞建设中](https://git.turna.live/xsling/turnawiki)~
 
 
 
 
 # ∀Live-Minecraft
-![index](./images/index.webp)
+!>服务器使用1.16.4原版客户端即可加入，服务端无任何跨版本措施。</br>
+若希望使用`AllMusic`点歌，请[点击下载Fabric Mod](https://turnadl.oss-cn-beijing.aliyuncs.com/%5Bfabric-1.16%5DAllMusic-2.3.0%28hotfix%29.jar)并自行安装。
+
 ### 世界详情
 服务器核心：
 
