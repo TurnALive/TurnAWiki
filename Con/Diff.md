@@ -24,7 +24,7 @@
 
 ## 合成配方
 
-&#8195;物品&#8195; | &#8195;材料&#8195; | &#8195;配方&#8195;
+物品 | 材料 | 配方
 -|-|-
 鞘翅 | 钻石 　×4 <br/> 幻翼膜 ×4　<br/> 潜影壳 ×1 | ![elytra_custom_recipe.jpg](https://ddns.xsling.xyz:3561/images/2021/01/01/elytra_custom_recipe.jpg)
 
