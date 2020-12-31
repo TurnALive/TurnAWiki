@@ -1,16 +1,32 @@
 ## 概览
 
-本服务器在玩法上完全遵循原版 Minecraft 流程，并未添加与原版 Minecraft 相左的设定，大多数被广泛使用的特性也并未禁用，未来若有必要调整也将尽力保证与 "Vanilla" Minecraft 的一致性。
-
-本页面意在说明修改的具体内容以及详细的介绍使用方法
+本服务器在玩法上尽可能遵循原版 Minecraft 流程，并未添加与原版 Minecraft 相左的设定，大多数被广泛使用的特性也并未禁用，未来若有必要调整也将尽力保证与 "Vanilla" Minecraft 的一致性。
 
 > *生电安心宣言～*
 
+在此基础上根据实际需求我们对服务端设定做出了一些必要的调整，本页面将详细介绍这些调整的原因、修改的具体内容和详细的使用方法
+
+## 传送系统
+
+&#8195;本服务器基于 Essentials 插件建立了全维度可用的传送系统<sup>*</sup>，开放功能如下
+
+1. 家园传送 <kbd>/homes</kbd> <kbd>/home</kbd> <kbd>/sethome</kbd> <kbd>/delhome</kbd>
+
+1. 出生点传送 <kbd>/spawn</kbd>
+
+1. 回溯传送 <kbd>/back</kbd>
+
+1. 玩家间传送 <kbd>/tpa</kbd> <kbd>/tpahere</kbd> <kbd>/tpaccept</kbd>
+
+&#8195;各个指令的具体用法这里不再赘述，请访问 [Essentials](https://mineplugin.org/Essentials#.E4.BC.A0.E9.80.81) 百科页面查看具体用法
+
+&#8195;*: 出于建筑工程需要及材料节约目的以上传送指令均无延时或冷却，但管理员将保留对滥用行为的追究权利
+
 ## 合成配方
 
-物品 | 材料 | 配方
+&#8195;物品&#8195; | &#8195;材料&#8195; | &#8195;配方&#8195;
 -|-|-
-鞘翅 | 钻石 　×4 <br/> 幻翼膜 ×4　<br/> 潜影壳 ×1 | [等待插图]
+鞘翅 | 钻石 　×4 <br/> 幻翼膜 ×4　<br/> 潜影壳 ×1 | ![elytra_custom_recipe.jpg](https://ddns.xsling.xyz:3561/images/2021/01/01/elytra_custom_recipe.jpg)
 
 ## 物品复制
 
