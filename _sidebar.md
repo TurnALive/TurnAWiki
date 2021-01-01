@@ -2,4 +2,7 @@
 ** [使用HMCL外置登录](/Con/HMCL)
 ** [使用PCL2外置登录](/Con/PCL2)
 ** [使用基岩版登录](/Con/BE)
-* [玩法介绍](/Play/README)
+* [玩法介绍](/Play/Rules)
+** [服务器规则](/Play/Rules)
+** [特殊说明](/Play/Diff)
+** [物资节约指南](/Con/Non-renewable)
