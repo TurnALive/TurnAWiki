@@ -26,7 +26,7 @@
 
 物品 | 材料 | 配方
 -|-|-
-鞘翅 | 钻石 　×4 <br/> 幻翼膜 ×4　<br/> 潜影壳 ×1 | ![elytra_custom_recipe.jpg](https://ddns.xsling.xyz:3561/images/2021/01/01/elytra_custom_recipe00a52bd733423256.jpg)
+鞘翅 | 钻石 　×4 </br> 幻翼膜 ×4　</br> 潜影壳 ×1 | ![elytra_custom_recipe.jpg](https://ddns.xsling.xyz:3561/images/2021/01/01/elytra_custom_recipe00a52bd733423256.jpg)
 
 ## 物品复制
 
