@@ -15,7 +15,7 @@
 
 ### 此时正版玩家请输入正版帐号，外置登录玩家请输入在[外置登录站](https://user.turna.live/auth/register)注册的账号密码，Geyser 不会保存你的帐号信息，我们也不会做类似的改动，请放心（若无法放心可以在本地部署 Geyser 使用，参考网络上的教程不会非常困难）
 
-![login.jpg](https://ddns.xsling.xyz:3561/images/2021/01/01/login.jpg)
+![geyser_login_screen.png](https://ddns.xsling.xyz:3561/images/2021/02/03/geyser_login_screen.png)
 
 
 ### 点击提交后即可加入服务器，开始玩耍吧！
