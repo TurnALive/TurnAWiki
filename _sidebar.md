@@ -2,7 +2,7 @@
 ** [白名单申请](/Con/Whitelist)
 ** [使用HMCL外置登录](/Con/HMCL)
 ** [使用PCL2外置登录](/Con/PCL2)
-** [使用基岩版登录](/Con/BE)
+** [使用基岩版登录](/Con/Floodgate)
 * [玩法介绍](/Play/Opening)
 ** [开幕（新人指南）](/Play/Opening)
 ** [服务器成文规则（详明版）](/Play/Rules)
