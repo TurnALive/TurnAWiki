@@ -5,6 +5,6 @@
 ** [使用基岩版登录](/Con/Floodgate)
 * [玩法介绍](/Play/Opening)
 ** [开幕（新人指南）](/Play/Opening)
-** [服务器成文规则（详明版）](/Play/Rules)
+** [服务器规则建议](/Play/Rules)
 ** [特殊说明](/Play/Diff)
 ** [物资节约指南](/Con/Non-renewable)
