@@ -31,7 +31,7 @@
 
 ### 绑定 Minecraft Java Edition 帐号
 
-1. 请分别登录Jave与基岩版帐号并连接到服务器
+1. 请分别登录 Java 与基岩版帐号并连接到服务器
 
 1. 其中一端执行 <kbd>/linkaccount</kbd> 以获取绑定验证码
 
