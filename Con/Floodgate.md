@@ -1,9 +1,5 @@
 ## 通过 Minecraft Bedrock Edition 连接到服务器
 
-    1. 与服务器取得连接
-    2. 绑定 Minecraft Java Edition 帐号
-    3. 基岩版可能会需要用到的指令
-
 ### 与服务器取得连接
 
 1. 下载1.16.x基岩版Minecraft（全平台）
@@ -12,8 +8,8 @@
 
 2. 在服务器页面找到添加服务器，并填写相关信息
 
-服务器名称:`TurnALive`
-服务器地址:`se.turna.live`
+服务器名称:`TurnALive`</br>
+服务器地址:`se.turna.live`</br>
 端口:`19132`
 
 ![addserver.jpg](https://ddns.xsling.xyz:3561/images/2021/01/01/addserver.jpg)
