@@ -4,15 +4,15 @@
 
 
 # ∀Live-Minecraft
-!>服务器使用1.16.4原版客户端即可加入，服务端无任何跨版本措施。</br>
+!>服务器使用1.16.5原版客户端即可加入，服务端无任何跨版本措施。</br>
 本服务器开启了白名单验证，请阅读[白名单申请](/Con/Whitelist)一章进行申请</br>
 若希望使用`AllMusic`点歌，请[点击下载Fabric Mod](https://turnadl.oss-cn-beijing.aliyuncs.com/%5Bfabric-1.16%5DAllMusic-2.3.0%28hotfix%29.jar)并自行安装。
 
 ### 世界详情
 服务器核心：
 
-创造服：`Paper-1.16.4-345`</br>
-生存服：`Spigot-1.16.4-122`
+创造服：`Paper-1.16.5-469`</br>
+生存服：`Spigot-1.16.5-124`
 
 
 服务器验证方式为正版兼容外置登录，即正版和[非正版玩家](https://wiki.turna.live/#/Con/)皆可登录。
