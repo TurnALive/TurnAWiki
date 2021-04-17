@@ -1,4 +1,4 @@
-#### 欢迎来到∀Live！Wiki绝赞建设中~　[\[Edit on gitlab\]](https://git.turna.live/xsling/turnawiki)
+#### 欢迎来到∀Live！Wiki绝赞建设中~　[\[Edit on github\]](https://github.com/TurnALive/TurnAWiki)
 
 
 
