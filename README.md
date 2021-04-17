@@ -25,10 +25,6 @@
 
 请 ping 后自行选择较优节点连接。
 
-### 相关链接：
-
-#### [主页](https://mc.turna.live)|[论坛](https://forum.turna.live)|[地图](https://mcmap.turna.live)
-
 ### 常见问题
 - Q:提示“认证服务器停机维护”怎么办？
 
