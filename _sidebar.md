@@ -5,7 +5,7 @@
 ** [使用基岩版登录](/auth/Floodgate)
 * [玩法介绍](/game/Opening)
 ** [开幕（新人指南）](/game/Opening)
-** [更新速览](game/Primeval)
+** [更新速览](game/UpdateOverview)
 ** [服务器规则建议](/game/Rules)
 ** [特殊说明](/game/Diff)
 ** [物资节约指南](/auth/Non-renewable)
