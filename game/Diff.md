@@ -46,15 +46,23 @@
 
 ## 合成配方
 
-物品 | 材料 | 配方
+物品 | 材料 | 配方示意图
 -|-|-
-鞘翅 | 钻石 　×4 </br> 幻翼膜 ×4　</br> 潜影壳 ×1 | ![elytra_custom_recipe.jpg](https://ddns.xsling.xyz:3561/images/2021/01/01/elytra_custom_recipe00a52bd733423256.jpg)
+鞘翅 | 金锭 　×2</br> 鞍　　 ×1</br> 幻翼膜 ×4　</br> 潜影壳 ×1 | ![elytra_recipe.png](https://ddns.xsling.xyz:3561/images/2021/04/18/Screenshot_20210418_222756.png)
+附魔金苹果 | 金苹果 ×1</br> 下界之星 ×1 | （无序合成）
+石英 | 烈焰粉 ×4</br> 玻璃 ×3</br> 铁锭 ×2 | ![quartz_recipe.png](https://ddns.xsling.xyz:3561/images/2021/04/18/Screenshot_20210418_232746.png)
 
 ## 物品复制
 
 ### &#8194;允许的范围
 
-~~石英块~~<sup>现请使用村民交易所</sup>、海绵、~~鞘翅~~<sup>参考：合成配方</sup>、附魔金苹果、沙子<sup>重力方块复制机</sup>、铁砧<sup>重力方块复制机</sup>
+~~石英块~~<sup>\[1]</sup>、海绵、~~鞘翅~~<sup>\[2]</sup>、~~附魔金苹果~~<sup>\[2]</sup>、沙子<sup>\[3]</sup>、铁砧<sup>\[3]</sup>
+
+\[1]: 现请使用村民交易所或从石英合成
+
+\[2]: 参考：合成配方
+
+\[3]: 请使用重力方块复制机
 
 ### &#8194;注意事项
 
