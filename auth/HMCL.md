@@ -22,6 +22,6 @@
 
 ![02-28-58.jpg](https://ddns.xsling.xyz:3561/images/2021/01/01/02-28-58.jpg)
 
-6. 开始玩耍吧!
+6. [开始玩耍](/game/Opening)吧!
 
 ![02-32-12.jpg](https://ddns.xsling.xyz:3561/images/2021/01/01/02-32-12.jpg)
