@@ -45,7 +45,7 @@
 ### 联络
 [QQ](https://jq.qq.com/?_wv=1027&k=G0qBG63H) 群里都是JK，确定不来看看嘛？(逃
 
-[Telegram](https://t.me/joinchat/Kd53dFPoRcoqBKpBnvnnbA)
+[Telegram](https://t.me/turnalive)
 
 [Discord](https://discord.gg/vKrN3zn)
 
