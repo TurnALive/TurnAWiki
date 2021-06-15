@@ -22,6 +22,7 @@
 
 华西：`se.turna.live`</br>
 华北：`ab.turna.live`</br>
+华南：`tg.turna.live`</br>
 香港：`th.turna.live`</br>
 
 请 ping 后自行选择较优节点连接。
