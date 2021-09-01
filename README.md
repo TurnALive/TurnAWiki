@@ -7,7 +7,7 @@
 !>服务器使用1.16.5原版客户端即可加入，服务端无任何跨版本措施。</br>
 ~~本服务器开启了白名单验证，请阅读[白名单申请](/auth/Whitelist)一章进行申请~~</br>
 本服务器目前暂未开启白名单验证，但是为了更好的游戏体验请仍然仔细阅读本Wiki。</br>
-若希望使用`AllMusic`点歌，请[点击下载Fabric Mod](https://turnadl.oss-cn-beijing.aliyuncs.com/%5Bfabric-1.16%5DAllMusic-2.3.0%28hotfix%29.jar)并自行安装。
+若希望使用`AllMusic`点歌，请[点击下载Fabric Mod](https://dl.turna.live/allmusic-latest.jar)并自行安装。
 
 ### 世界详情
 服务器核心：
