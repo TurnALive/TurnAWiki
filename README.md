@@ -48,5 +48,5 @@
 
 [Telegram](https://t.me/turnalive)
 
-[Discord](https://discord.gg/vKrN3zn)
+[Discord](https://discord.gg/BMKJYmDHEq)
 
