@@ -4,6 +4,7 @@
 ** [使用 PCL2 外置登录](/auth/PCL2)
 ** [使用基岩版登录](/auth/Floodgate)
 ** [使用 Pojav Launcher 登录](auth/Pojav)
+** [使用 澪Ultimate 登录](/auth/ling-Ultimate)
 * [玩法介绍](/game/Opening)
 ** [开幕（新人指南）](/game/Opening)
 ** [更新速览](game/UpdateOverview)
