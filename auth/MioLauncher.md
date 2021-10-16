@@ -16,9 +16,7 @@
 
 6.  填写启动参数 `-javaagent:/path/to/your/authlib-injector=https://user.turna.live/api/yggdrasil`
 
-
-    !>如你依照以上步骤操作，此处的`/path/to/your/authlib-injector`在大部分安卓设备上应为`/storage/emulated/0/MioLauncher/authlib-injector-x.x.x.jar`
-    
+!> 如你依照以上步骤操作，此处的`/path/to/your/authlib-injector`在大部分安卓设备上应为`/storage/emulated/0/MioLauncher/authlib-injector-x.x.x.jar`
     
 7.  启动并加入服务器
 
