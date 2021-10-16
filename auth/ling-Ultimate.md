@@ -31,7 +31,7 @@
 4.6  打开 澪Ultimate ，将启动参数修改为 -XmxAAAM -javaagent:/storage/emulated/0/MioLauncher/authlib-injector-x.x.x.jar=https://user.turna.live/api/yggdrasil
 *注：此处的AAA可自由设置，authlib-injector所下载的版本号不定，请以下载版本为主*
 
-5. 选择安装与当前服务器世界对应的版本并启动
+5. 选择安装与当前服务器世界对应的版本，并启动
 
 6. 加入服务器的步骤与标准的 Minecraft Java Edition 相差不大，在此略过
 
