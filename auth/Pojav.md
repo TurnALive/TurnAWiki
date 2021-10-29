@@ -21,9 +21,6 @@
 
 在跟随以上步骤安装完成后，进入世界大概率会遇到极端的卡顿现象，推荐安装 Sodium 来缓解
 
-***经过不完全测试，在 1.17+ 版本中，Sodium 在 Android 与 iOS 平台均会导致游戏崩溃，而在低于 1.17 的版本中有概率在进入世界的过程中导致游戏崩溃。
-(Source: [Does OptiFine or Sodium works?](https://pojavlauncherteam.github.io/updates/117.html#does-optifine-or-sodium-works))***
-
 2. LambdaControls
 
 为触摸操作提供更好的支持
