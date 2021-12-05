@@ -1,10 +1,10 @@
-## 通过 Pojav Launcher 连接到服务器
+## 通过 PojavLauncher 连接到服务器
 
 *此方案仅支持 Android 移动设备且效果有待验证，推荐优先使用基岩版登录*
 
 ### 与服务器取得连接
 
-1.  前往 [此处](https://github.com/PojavLauncherTeam/PojavLauncher/releases) 下载 Projav Launcher
+1.  前往 [此处]((https://play.google.com/store/apps/details?id=net.kdt.pojavlaunch))  *（需要科学的网络连接）* 下载 PojavLauncher
 
 2. 安装并打开
     - 若你在使用“存储空间隔离”或类似程序整理内部存储空间，则建议为其开启隔离，其启动与日志输出功能至少会在内部存储根目录下创建 3 个文件夹
