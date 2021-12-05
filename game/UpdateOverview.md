@@ -20,7 +20,7 @@
 
 Mod 加载器方面由于老牌的 ModLoader 开发逐渐停摆，新兴 Forge 框架正式成为主流。
 
-<kbd>更多>></kbd> [改变世界的更新](https://minecraft-zh.gamepedia.com/Java%E7%89%88%E6%8C%87%E5%8D%97/%E6%94%B9%E5%8F%98%E4%B8%96%E7%95%8C%E7%9A%84%E6%9B%B4%E6%96%B0)
+<kbd>更多>></kbd> [改变世界的更新](https://minecraft.fandom.com/zh/Java%E7%89%88%E6%8C%87%E5%8D%97/%E6%94%B9%E5%8F%98%E4%B8%96%E7%95%8C%E7%9A%84%E6%9B%B4%E6%96%B0)
 
 ### 1.7 --> 1.8
 
@@ -43,7 +43,7 @@ Mod 加载器方面由于老牌的 ModLoader 开发逐渐停摆，新兴 Forge �
 
 Minecraft 的创始人，即 Notch 在本版本发布前离开了 Mojang A.B. ，不再管理 Minecraft 开发相关事物。同时将 Mojang 连带 Minecraft 的全部交易转移给了微软，自此微软开始领导 Minecraft 的开发。
 
-<kbd>更多>></kbd> [缤纷更新](https://minecraft-zh.gamepedia.com/Java%E7%89%88%E6%8C%87%E5%8D%97/%E7%BC%A4%E7%BA%B7%E6%9B%B4%E6%96%B0)
+<kbd>更多>></kbd> [缤纷更新](https://minecraft.fandom.com/zh/Java%E7%89%88%E6%8C%87%E5%8D%97/%E7%BC%A4%E7%BA%B7%E6%9B%B4%E6%96%B0)
 
 ### 1.8 --> 1.9
 
@@ -90,7 +90,7 @@ Minecraft 的创始人，即 Notch 在本版本发布前离开了 Mojang A.B. �
 - 滞留型药水
     - 这一版本添加的新药水种类，类似喷溅药水，但破碎后药水效果会在原地滞留一段时间，持续赋予玩家药水效果。
 
-<kbd>更多>></kbd> [战斗更新](https://minecraft-zh.gamepedia.com/Java%E7%89%88%E6%8C%87%E5%8D%97/%E6%88%98%E6%96%97%E6%9B%B4%E6%96%B0)
+<kbd>更多>></kbd> [战斗更新](https://minecraft.fandom.com/zh/Java%E7%89%88%E6%8C%87%E5%8D%97/%E6%88%98%E6%96%97%E6%9B%B4%E6%96%B0)
 
 ### 1.9 --> 1.10
 
@@ -100,7 +100,7 @@ Minecraft 的创始人，即 Notch 在本版本发布前离开了 Mojang A.B. �
 
 此次更新后地下开始生成由骨块构成的化石结构。
 
-<kbd>更多>></kbd> [霜炙更新](https://minecraft-zh.gamepedia.com/Java%E7%89%88%E6%8C%87%E5%8D%97/%E9%9C%9C%E7%82%99%E6%9B%B4%E6%96%B0)
+<kbd>更多>></kbd> [霜炙更新](https://minecraft.fandom.com/zh/Java%E7%89%88%E6%8C%87%E5%8D%97/%E9%9C%9C%E7%82%99%E6%9B%B4%E6%96%B0)
 
 ### 1.10 --> 1.11
 
@@ -117,7 +117,7 @@ Minecraft 的创始人，即 Notch 在本版本发布前离开了 Mojang A.B. �
 
 添加了新的灾厄村民（与村民长相相似但与玩家/村民敌对的生物），其中唤魔者掉落不死图腾，可以为玩家免去一次致命伤害并给予玩家极高的抗性提升（普通攻击根本打不动的程度）。
 
-<kbd>更多>></kbd> [探险更新](https://minecraft-zh.gamepedia.com/Java%E7%89%88%E6%8C%87%E5%8D%97/%E6%8E%A2%E9%99%A9%E6%9B%B4%E6%96%B0)
+<kbd>更多>></kbd> [探险更新](https://minecraft.fandom.com/zh/Java%E7%89%88%E6%8C%87%E5%8D%97/%E6%8E%A2%E9%99%A9%E6%9B%B4%E6%96%B0)
 
 ### 1.11 --> 1.12
 
@@ -127,7 +127,7 @@ Minecraft 的创始人，即 Notch 在本版本发布前离开了 Mojang A.B. �
 
 添加了鹦鹉，Party Parrot!
 
-<kbd>更多>></kbd> [多彩世界更新](https://minecraft-zh.gamepedia.com/Java%E7%89%88%E6%8C%87%E5%8D%97/%E5%A4%9A%E5%BD%A9%E4%B8%96%E7%95%8C%E6%9B%B4%E6%96%B0)
+<kbd>更多>></kbd> [多彩世界更新](https://minecraft.fandom.com/zh/Java%E7%89%88%E6%8C%87%E5%8D%97/%E5%A4%9A%E5%BD%A9%E4%B8%96%E7%95%8C%E6%9B%B4%E6%96%B0)
 
 ### 1.12 --> 1.13
 
@@ -223,7 +223,7 @@ Minecraft 的创始人，即 Notch 在本版本发布前离开了 Mojang A.B. �
 
 - 本版本起 Mojang 创立了将当次更新内容置入开始界面背景的传统。本版本应用了新的标题界面背景，包含了许多在水域更新里加入的结构、方块和生物。
 
-<kbd>更多>></kbd> [水域更新](https://minecraft-zh.gamepedia.com/Java%E7%89%88%E6%8C%87%E5%8D%97/%E6%B0%B4%E5%9F%9F%E6%9B%B4%E6%96%B0)
+<kbd>更多>></kbd> [水域更新](https://minecraft.fandom.com/zh/Java%E7%89%88%E6%8C%87%E5%8D%97/%E6%B0%B4%E5%9F%9F%E6%9B%B4%E6%96%B0)
 
 ### 1.13 --> 1.14
 
@@ -252,7 +252,7 @@ Minecraft 的创始人，即 Notch 在本版本发布前离开了 Mojang A.B. �
 - 增加了事件：袭击
     - 增加了新的灾厄村民。
     - 若玩家杀死掠夺队长（头上带有旗帜的灾厄村民）将会获得不祥之兆效果，在此情况下进入村庄将会触发袭击。
-    - 详细的应对方式请参考[袭击](https://minecraft-zh.gamepedia.com/%E8%A2%AD%E5%87%BB)。
+    - 详细的应对方式请参考[袭击](https://minecraft.fandom.com/zh/%E8%A2%AD%E5%87%BB)。
 
 视觉效果改变：全部
 
@@ -280,7 +280,7 @@ Minecraft 的创始人，即 Notch 在本版本发布前离开了 Mojang A.B. �
 重大影响：Mod
 - 本次更新周期内 Forge 支持依旧乏力。Rift 作者加入 Fabric 开发环境。Fabric 逐渐取得了 Forge 的部分优势跻身高版本的主流 Mod 加载框架。在本版本内 Fabric 罕见的呈现绝对主流趋势。
 
-<kbd>更多>></kbd> [村庄与掠夺](https://minecraft-zh.gamepedia.com/Java%E7%89%88%E6%8C%87%E5%8D%97/%E6%9D%91%E5%BA%84%E4%B8%8E%E6%8E%A0%E5%A4%BA)
+<kbd>更多>></kbd> [村庄与掠夺](https://minecraft.fandom.com/zh/Java%E7%89%88%E6%8C%87%E5%8D%97/%E6%9D%91%E5%BA%84%E4%B8%8E%E6%8E%A0%E5%A4%BA)
 
 ### 1.14 --> 1.15
 
@@ -299,7 +299,7 @@ Minecraft 的创始人，即 Notch 在本版本发布前离开了 Mojang A.B. �
 - 与黏液块运作原理相同。
 - 蜂蜜块不会和黏液块粘在一起，极大增强了绿萌科技的应用。
 
-<kbd>更多>></kbd> [嗡嗡蜂群](https://minecraft-zh.gamepedia.com/Java%E7%89%88%E6%8C%87%E5%8D%97/%E5%97%A1%E5%97%A1%E8%9C%82%E7%BE%A4)
+<kbd>更多>></kbd> [嗡嗡蜂群](https://minecraft.fandom.com/zh/Java%E7%89%88%E6%8C%87%E5%8D%97/%E5%97%A1%E5%97%A1%E8%9C%82%E7%BE%A4)
 
 ### 1.15 --> 1.16
 
@@ -363,27 +363,30 @@ Minecraft 的创始人，即 Notch 在本版本发布前离开了 Mojang A.B. �
 
 - 通过充能的重生锚玩家能够在下界重生。
 
-<kbd>更多>></kbd> [下界更新](https://minecraft-zh.gamepedia.com/Java%E7%89%88%E6%8C%87%E5%8D%97/%E4%B8%8B%E7%95%8C%E6%9B%B4%E6%96%B0)
+<kbd>更多>></kbd> [下界更新](https://minecraft.fandom.com/zh/Java%E7%89%88%E6%8C%87%E5%8D%97/%E4%B8%8B%E7%95%8C%E6%9B%B4%E6%96%B0)
 
 ### 1.16 --> 1.17
 
-**洞穴与山崖（目前尚未发布正式版，以下特性随时可能发生变化）**
+**洞穴与山崖 第一部分**
 
-**（当前仅在 TurnAlive 附属的快照测试服务器中运行，其中数据与主服务器无关且可能频繁重置）**
+本次更新添加了 *洞穴与山崖* 原定更新中的大部分方块与生物，但世界生成未作改动
+
+- 添加了大量方块及物品，如：紫水晶、遮光玻璃、铜（系列方块）、苔藓、垂滴叶、孢子花、深板岩等，由于添加的方块量较大而不在此处列举，敬请查看以下页面
+
+<kbd>更多>></kbd> [洞穴与山崖](https://minecraft.fandom.com/zh/wiki/%E6%B4%9E%E7%A9%B4%E4%B8%8E%E5%B1%B1%E5%B4%96)
+
+### 1.17 --> 1.18
+
+**洞穴与山崖 第二部分**
+
+本次更新添加了 *洞穴与山崖* 原定更新中世界生成部分
 
 改变：主世界维度
 
-- 现在世界高度上限为从 -64 到 320 格共 384 格高，相对以往版本提升了 128 格。
+- 现在世界高度上限改为 -64 到 320 共 384 格高，相对以往版本提升了 128 格。
 
 - 添加了新的群系/生成特性。
 
-    - Lush Caves（非官方译名：繁茂洞穴）
-    - Deep Dark
-    - Mesh Caves
-    - Archaeological excavation
-
 - 应用了以往版本存在但未使用的立体生物群系生成器。
 
-- 添加了许多新方块和物品，但大部分暂时没有译名，故不在这里列出。
-
-<kbd>更多>></kbd> [洞穴与山崖](https://minecraft-zh.gamepedia.com/%E6%B4%9E%E7%A9%B4%E4%B8%8E%E5%B1%B1%E5%B4%96)
+<kbd>更多>></kbd> [洞穴与山崖](https://minecraft.fandom.com/zh/wiki/%E6%B4%9E%E7%A9%B4%E4%B8%8E%E5%B1%B1%E5%B4%96)
