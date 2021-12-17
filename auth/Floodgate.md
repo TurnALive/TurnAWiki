@@ -1,10 +1,8 @@
-## 通过 Minecraft Bedrock Edition 连接到服务器
-
 ### 与服务器取得连接
 
 1. 下载1.16.x基岩版Minecraft（全平台）
 
-![index.jpg](https://ddns.xsling.xyz:3561/images/2021/01/01/index.jpg)
+![index.jpg](../assets/img/index.jpg)
 
 2. 在服务器页面找到添加服务器，并填写相关信息
 
@@ -12,16 +10,15 @@
 服务器地址:`se.turna.live`</br>
 端口:`19132`
 
-![addserver.jpg](https://ddns.xsling.xyz:3561/images/2021/01/01/addserver.jpg)
+![addserver.jpg](../assets/img/addserver.jpg)
 
 3. 保存后点击新增项后即可连接到服务器
 
-![checkin.jpg](https://ddns.xsling.xyz:3561/images/2021/01/01/checkin.jpg)
+![checkin.jpg](../assets/img/checkin.jpg)
 
-![turna.jpg](https://ddns.xsling.xyz:3561/images/2021/01/01/turna.jpg)
+![turna.jpg](../assets/img/turna.jpg)
 
-
-![jeview.jpg](https://ddns.xsling.xyz:3561/images/2021/01/01/jeview.jpg)
+![jeview.jpg](../assets/img/jeview.jpg)
 
 *JE玩家视角*
 
@@ -37,7 +34,7 @@
 
 ### 您可能需要在基岩版中使用这些指令来代替 Java 版的对应功能
 
-1.  <kbd>/geyser offhand</kbd> 切换副手
+1. <kbd>/geyser offhand</kbd> 切换副手
 
     - 请注意基岩版无论何时副手的物品都不能被直接使用。您可以按住潜行使用盾牌、可以将副手的箭作为发射物装填、可以触发不死图腾，特殊装备的效果也可以生效，但不能使用副手的物品或放置副手的方块，要使用它们必须切换到主手
 

@@ -50,9 +50,9 @@
 
 物品 | 材料 | 配方示意图
 -|-|-
-鞘翅 | 金锭 　×2</br> 鞍　　 ×1</br> 幻翼膜 ×4　</br> 潜影壳 ×1 | ![elytra_recipe.png](https://ddns.xsling.xyz:3561/images/2021/04/18/Screenshot_20210418_222756.png)
+鞘翅 | 金锭 　×2</br> 鞍　　 ×1</br> 幻翼膜 ×4　</br> 潜影壳 ×1 | ![elytra_recipe.png](../assets/img/Screenshot_20210418_222756.png)
 附魔金苹果 | 金苹果 ×1</br> 下界之星 ×1 | （无序合成）
-石英 | 烈焰粉 ×4</br> 玻璃 ×3</br> 铁锭 ×2 | ![quartz_recipe.png](https://ddns.xsling.xyz:3561/images/2021/04/18/Screenshot_20210418_232746.png)
+石英 | 烈焰粉 ×4</br> 玻璃 ×3</br> 铁锭 ×2 | ![quartz_recipe.png](../assets/img/Screenshot_20210418_232746.png)
 
 ## 物品复制
 
