@@ -10,4 +10,4 @@
 ** [更新速览](game/UpdateOverview)
 ** [服务器规则建议](/game/Rules)
 ** [特殊说明](/game/Diff)
-** [物资节约指南](/auth/Non-renewable)
+** [物资节约指南](/game/Non-renewable)
