@@ -12,20 +12,26 @@
 ### 世界详情
 服务器核心：
 
-创造服：`Paper-1.16.5-792`</br>
-生存服：`Paper-TurnA-32`
+Creative：`Paper-1.18.1-186`</br>
+Flat：`Paper-1.18.1-186`</br>
+Survival：`Purpur-1.18.1-1547`
 
 
 服务器验证方式为正版兼容外置登录，即正版和[非正版玩家](/auth/HMCL)皆可登录。
 
 ### 与服务器取得连接
 
+```
+play.turna.live
+```
+
+如果你想指定使用的线路：
+
 华西：`se.turna.live`</br>
 华北：`ab.turna.live`</br>
 华南：`tg.turna.live`</br>
-香港：`th.turna.live`</br>
+海外：`th.turna.live`</br>
 
-请 ping 后自行选择较优节点连接。
 
 ### 常见问题
 - Q:提示“认证服务器停机维护”怎么办？
@@ -45,6 +51,8 @@
 
 ### 联络
 [QQ](https://jq.qq.com/?_wv=1027&k=G0qBG63H) 群里都是JK，确定不来看看嘛？(逃
+
+[频道](https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&inviteCode=1tePPW&from=246610&biz=ka)
 
 [Telegram](https://t.me/turnalive)
 
