@@ -4,7 +4,7 @@
 
 
 # ∀Live-Minecraft
-!>服务器使用1.17.1或1.18原版客户端即可加入，更旧的客户端可进入服务器，但会一定程度上影响游戏体验并加重服务器负担。</br>
+!>服务器使用1.18.2原版客户端即可加入。</br>
 ~~本服务器开启了白名单验证，请阅读[白名单申请](/auth/Whitelist)一章进行申请~~</br>
 本服务器目前暂未开启白名单验证，但是为了更好的游戏体验请仍然仔细阅读本Wiki。</br>
 若希望使用`AllMusic`点歌，请[点击下载Fabric Mod](https://dl.turna.live/allmusic-latest.jar)并自行安装。
@@ -12,9 +12,9 @@
 ### 世界详情
 服务器核心：
 
-Creative：`Paper-1.18.1-186`</br>
-Flat：`Paper-1.18.1-186`</br>
-Survival：`Purpur-1.18.1-1547`
+Creative：`Paper-1.18.2-237`</br>
+Flat：`Paper-1.18.2-237`</br>
+Survival：`Purpur-1.18.2-1584`
 
 
 服务器验证方式为正版兼容外置登录，即正版和[非正版玩家](/auth/HMCL)皆可登录。
